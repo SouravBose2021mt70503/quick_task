@@ -8,8 +8,8 @@ import 'package:bits_quicktask/login_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  final keyApplicationId = 'nhY09tvAQ7O4LTLody2zAl6xTb9onRngJ7N6HEZs';
-  final keyClientKey = 'QUOpbIQv60UpTmEIOILyLN7YfAm14ZhD1dwvNTEB';
+  final keyApplicationId = 'gHpRoPZrFSyZJ4L6tb9ZYvwETZu7vcx4UV5jqtKv';
+  final keyClientKey = 'IU3rlmgiU2uLJ4AbARTBNith6wyK8kxh0gVQ5EuM';
   final keyParseServerUrl = 'https://parseapi.back4app.com';
 
   await Parse().initialize(
